@@ -1,0 +1,27 @@
+{
+  "name": "todo-with-mongodb-web-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anuraag-Mahapatra/TODO_MongoDB_Web_Server.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anuraag-Mahapatra/TODO_MongoDB_Web_Server/issues"
+  },
+  "homepage": "https://github.com/Anuraag-Mahapatra/TODO_MongoDB_Web_Server#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.16.5",
+    "uuidv4": "^6.2.13"
+  }
+}
